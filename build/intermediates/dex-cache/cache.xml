@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_198142201b6556b73e89b9e2807c50d2db21255c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_2fb3bdd7b135f29ef132ae8db3007e3e2d0843b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.7.2/84ffa765dd258dbab8695963c41308b054f3a1cb/jackson-databind-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="84ffa765dd258dbab8695963c41308b054f3a1cb">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.7.2_6904e035fe48c15b276f8b62f6179fbccf92be46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_40b35b5c0a9a864ef7a3c4c3a2aa2816a914543e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/exploded-aar/com.android.support/support-v13/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-22.2.0_bdde14f755ac69b06ddf4c8382e394f67ec5c245/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_1a06c80b2a7f023742a91474b596425c3f3028e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_bb452f7cfeba84b016d8937001f71b6c6f2aa96a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_b046f0ebda87a3a11d2a5d7eb9e848d19d759ed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_d1b50ffa2c5ac775de40ffd1f133353d6e115b39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_60f926eebcf5b3c9b5c8f82151e4fe6eee796428/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/de.greenrobot/greendao/1.3.7/dda08161d004c4df96938da6909f1c2b96cd33c8/greendao-1.3.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dda08161d004c4df96938da6909f1c2b96cd33c8">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-1.3.7_6f871f363fc923fc9d1389e1de495a672c20c9fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-jackson/2.0.0/9506825ddc5a43b38a3d104db913ff0f4cb2e323/converter-jackson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9506825ddc5a43b38a3d104db913ff0f4cb2e323">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-jackson-2.0.0_abe72a43ea0e9a0f83bc22ba83a015b0ce64ae2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/exploded-aar/com.github.2359media/EasyAndroidAnimations/0.8/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="53bb0f9d6f5f063a1a998a074fb1e880e7beba45">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.2359media-EasyAndroidAnimations-0.8_95cd34a633118bbe8fcee23ce850fd5ea2b9f4e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.0.1/1d232df84491c0453e077002509911301109409d/logging-interceptor-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1d232df84491c0453e077002509911301109409d">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.0.1_866855d058a79aed4975d10d737920e6c2389f02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_502f2a8d8671fc9324b68004918ae0c4bde1fc0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_576b3bfb1abf6716de232c2ee2ef22092525f126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_ec96e3f4b0dc56bf8213be9f96af8086820669bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/exploded-aar/com.simplepeng.library/transformslibrary/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c5b719e0546d9f671c8e2afacbc9c2d6027464">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.simplepeng.library-transformslibrary-1.0.0_5012180a17b076a073b624358d1ed57f9c24de8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_2a0fb198453fb549605a22cbdf1ec7f26acb2d6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.6/b74bde9cceb2f9ec1077a9c7c3a007c251531ba6/fastjson-1.2.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b74bde9cceb2f9ec1077a9c7c3a007c251531ba6">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/fastjson-1.2.6_c3cdffc35455f17d19cd3475092e6880438ea873/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_c6e1b919a0d26e539e7bd2fe433d77b3b990c37a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.2/a60c039ba54c73d1133b72178e1b04133c73d13d/adapter-rxjava-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.2_e31b9913c40b6c7584d13942c9db6eaaa2a6a821/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.7.0/19f42c154ffc689f40a77613bc32caeb17d744e3/jackson-annotations-2.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.7.0_fb4782786546567541f8db212e08c6d93217704b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/b494968f6050d494de55dc3ce005e59c7eb40012/rxjava-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.1_7668fc6570090d5b2cb8ff2b2b5b78305ca3c50c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.0.1_aa373edee36da0554d0da5a19cfb907ef02e2354/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.7.2/8b8310381b690e317f5f0574e9b2dd7034778b4c/jackson-core-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8b8310381b690e317f5f0574e9b2dd7034778b4c">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.7.2_bd505f3f5904b5b3e968d92a6a5da10b24ec860d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_a0963d6980c95f33d67c3320df5b5feba1071dc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0050b37125859d20462b8fa7e621fd67bf605764">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e2a459cd53308975f632b27207bfbe1426699a6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_c696ed3f65be2a612a9acf3c474bf375285bfa22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/exploded-aar/com.android.support/support-v13/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_d5fc05b0563098ed39d0a7e365cf836259af66fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.0.1_59bc53b4b1f244d4c81a8c7d12cc5678692bb220/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fa2ebad79ba187d8fcc8f520281a338cc862cc00">
+        <dex dex="/Users/youarenotin/Documents/Android_Library/SSSSSSSSSSSSSSSSS/Respository/NewXuXian/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9a7e2331902d71a26a116e9e619eff0ba1140298/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:id="@+id/titleBar"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <include  layout="@layout/include_fra_main_title"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/slideContainer"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:visibility="gone"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/iv_classify"
+                android:layout_width="45dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/classification_icon"/>
+            <com.xuxian.new_market.mvp.ui.widght.SlideTabLayout
+                android:id="@+id/slideTabLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/default_title_indicator_selected_color" />
+        </LinearLayout>
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/fragment_containerViewPager"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <include layout="@layout/emptyview_layout"/>
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/iv_sign"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/sign_icon"
+        android:visibility="gone" />
+</RelativeLayout>
+

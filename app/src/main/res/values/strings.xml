@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewXuXian</string>
+    <string name="main_first">首页</string>
+    <string name="main_second">全国送</string>
+    <string name="main_third">购物车</string>
+    <string name="main_fourth">扫码</string>
+    <string name="main_fiveth">我</string>
+
+    <string name="internet_error">网络异常,请检查网络设置</string>
+    <string name="default_shoppingcar">购物车为空</string>
+</resources>

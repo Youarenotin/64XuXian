@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/child_fragment"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp">
+
+    <com.xuxian.new_market.mvp.ui.widght.refreshlayout.XuXianRefreshLayout
+        android:id="@+id/bla_goods"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <com.xuxian.new_market.mvp.ui.widght.CustomRecyclerView
+            android:id="@+id/recyclerLists"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:divider="@null"
+            android:fadingEdge="none"
+            />
+    </com.xuxian.new_market.mvp.ui.widght.refreshlayout.XuXianRefreshLayout>
+
+    <include layout="@layout/emptyview_layout" />
+
+
+
+</RelativeLayout>
